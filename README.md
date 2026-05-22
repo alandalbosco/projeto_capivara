@@ -10,9 +10,10 @@ Este repositório contém a estrutura reprodutível para o mapeamento de ocorrê
 - **Scripts/**: Códigos em R organizados logicamente.
   - `1_processar_dados.R`: Coleta automática do GBIF e triagem dos dados.
   - `2_gerar_mapa.R`: Projeção espacial, geração do mapa com ggplot2 e exportação.
+  - **Other/**: Script completo (projeto_capivara.R).
 - **Results/**: Output visual do mapa gerado em alta resolução (.tiff).
 
 # Criado em "RStudio 2026.01.0 Build 392"
 
 Contato: alan.dalbosco@hotmail.com
-Localização: Universidade Federal de Santa Catarina - Centro de Filosofia e Ciências Humanas (CFH) – Bloco C (2º Andar) - Sala "Prof.ª Magaly Mendonça" (LabClima)
+Localização: Universidade Federal de Santa Catarina - Centro de Filosofia e Ciências Humanas (CFH) – Bloco C (2º Andar) - Sala "Prof.ª Magaly Mendonça" (LabClima).
