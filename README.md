@@ -13,3 +13,6 @@ Este repositório contém a estrutura reprodutível para o mapeamento de ocorrê
 - **Results/**: Output visual do mapa gerado em alta resolução (.tiff).
 
 # Criado em "RStudio 2026.01.0 Build 392"
+
+Contato: alan.dalbosco@hotmail.com
+Localização: Universidade Federal de Santa Catarina - Centro de Filosofia e Ciências Humanas (CFH) – Bloco C (2º Andar) - Sala "Prof.ª Magaly Mendonça" (LabClima)
